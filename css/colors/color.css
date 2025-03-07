@@ -1,0 +1,94 @@
+
+#royal_preloader.royal_preloader_progress .royal_preloader_meter,
+.social-fixed-left a:before,
+.social-fixed-left a:after,
+.social-fixed-left-no-change a:before,
+.social-fixed-left-no-change a:after,
+.menu__item-text:after,
+.nav__list-item a:after,
+#owl-sep-1.owl-theme .owl-controls .owl-page span:hover,
+#owl-sep-1.owl-theme .owl-controls .owl-page.active span,
+#ajax-form button:hover,
+.btn-primary:hover,
+mark{
+	background-color: #6dc234;
+}
+.gridback span:hover,
+.menu__item-link i,
+.menu__item-link:hover,
+.menu__item-number,
+.tipper .tipper-content em,
+.footer a,
+.footer a:hover,
+.nav__footer a,
+p.page-title,
+.studio-box i,
+.subscribe button:hover,
+.primary-text-color,
+.blog-wrap a:hover h6,
+.go-post i:hover,
+.blog-pagination li p:hover,
+.arrow-icons:hover,
+.author-wrap p a:hover,
+.list-style.circle li:before,
+.list-style.circle-o li:before,
+.list-style li i,
+.list-style a.btn-link:hover {
+	color: #6dc234 !important;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active,
+.subscribe input:active,
+.subscribe input:focus {	
+	border-bottom:1px solid #6dc234;
+}
+.blockquote{
+	border-left: 0.4rem solid #6dc234;
+}
+.blockquote-reverse{
+	border-right: 0.4rem solid #6dc234;
+} 
+.form-control:active,
+.form-control:focus{
+	border-color: #6dc234;
+}
+figure.vimeo a:before, figure.youtube a:before {
+	border-left: 10px solid #6dc234;
+}
+figure.vimeo:hover a:after, figure.youtube:hover a:after {
+	background:#6dc234;
+}
+
+::selection {
+	background-color: #6dc234;
+}
+::-moz-selection {
+	background-color: #6dc234;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
